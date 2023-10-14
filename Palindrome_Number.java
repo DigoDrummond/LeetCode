@@ -11,7 +11,7 @@ public class Palindrome_Number {
         }
         return true;
     }
-
+    //Different approach
     // O(log(n))
     public boolean isPalindrome3(int x) {
         int xO = x, xN = 0;
